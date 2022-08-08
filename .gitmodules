@@ -1,0 +1,3 @@
+[submodule "asset/newTest"]
+	path = asset/newTest
+	url = https://github.com/JustyTravail/newTest.git
